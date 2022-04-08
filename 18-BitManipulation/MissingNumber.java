@@ -37,6 +37,10 @@ class Solution {
     public int missingNumber(int[] nums) 
     {
         //Gauss' Arithmetic Series Sum Version
+        //Sum of Arithmetic Series
+        // Sn = n * (a1 + an)/2
+        //Sum of geometric series
+        // Sn = [a*(r^n -1)] / (r-1)
         /*
         int expectSum = (nums.length+1)*(nums.length) / 2;
         for (int e : nums)
