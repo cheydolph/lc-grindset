@@ -1,0 +1,15 @@
+//In order to pass the completion test for a section, all problems must be done on their own without looking or hints
+//Does not have to be consecutive immediately, but meant to show progress on which ones still need work
+
+Topic: Two Pointers
+Problems: 3
+
+1. Valid Palindrom - Easy
+2. 3Sum - Medium
+3. Container with Most Water - Medium
+
+Test - 4/8/2022
+1. Success
+2. Almost Passed. Stuck on last else statement for increasing j/li for duplicates
+3. Success
+Final Result = 2/3
